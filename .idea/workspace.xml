@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec993722-4d78-4851-bf38-d0dc9d9147c3" name="Default Changelist" comment="" />
+    <list default="true" id="ec993722-4d78-4851-bf38-d0dc9d9147c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/examples/dao/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/examples/dao/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/examples/dao/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +30,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1eMhWYgIQljrhtnfMFnyUyLAkZ3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,7 +47,7 @@
       <recent name="excercises.first" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="excercises.first.Main" />
       <module name="zajecia20-2-26" />
@@ -91,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="examples.select.Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="examples.dao.Main" />
       <module name="zajecia20-2-26" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="examples.select.*" />
+          <option name="PATTERN" value="examples.dao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +133,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594137401516</updated>
-      <workItem from="1594137406658" duration="7977000" />
+      <workItem from="1594137406658" duration="8306000" />
+      <workItem from="1594394055389" duration="4169000" />
     </task>
     <servers />
   </component>
@@ -132,25 +142,56 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="937" height="287" key="GridCell.Tab.0.bottom" timestamp="1594145322318">
+    <state x="768" y="258" width="544" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1594396958849">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="937" height="287" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1594145322318" />
-    <state width="937" height="287" key="GridCell.Tab.0.center" timestamp="1594145322317">
+    <state x="768" y="258" width="544" height="562" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1594396958849" />
+    <state width="1874" height="287" key="GridCell.Tab.0.bottom" timestamp="1594398302250">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="937" height="287" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1594145322317" />
-    <state width="937" height="287" key="GridCell.Tab.0.left" timestamp="1594145322317">
+    <state width="1874" height="287" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1594398302250" />
+    <state width="1874" height="287" key="GridCell.Tab.0.center" timestamp="1594398302250">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="937" height="287" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1594145322317" />
-    <state width="937" height="287" key="GridCell.Tab.0.right" timestamp="1594145322318">
+    <state width="1874" height="287" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1594398302250" />
+    <state width="1874" height="287" key="GridCell.Tab.0.left" timestamp="1594398302250">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="937" height="287" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1594145322318" />
+    <state width="1874" height="287" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1594398302250" />
+    <state width="1874" height="287" key="GridCell.Tab.0.right" timestamp="1594398302250">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1594398302250" />
+    <state width="1874" height="323" key="GridCell.Tab.1.bottom" timestamp="1594398273423">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="323" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1594398273423" />
+    <state width="1874" height="323" key="GridCell.Tab.1.center" timestamp="1594398273422">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="323" key="GridCell.Tab.1.center/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1594398273422" />
+    <state width="1874" height="323" key="GridCell.Tab.1.left" timestamp="1594398273422">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="323" key="GridCell.Tab.1.left/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1594398273422" />
+    <state width="1874" height="323" key="GridCell.Tab.1.right" timestamp="1594398273423">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="323" key="GridCell.Tab.1.right/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1594398273423" />
     <state x="693" y="298" width="524" height="481" key="extract.method.dialog" timestamp="1594145009928">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="693" y="298" width="524" height="481" key="extract.method.dialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1594145009928" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/examples/dao/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
